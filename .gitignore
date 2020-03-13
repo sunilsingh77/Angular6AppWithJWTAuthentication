@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/TokenbasedAuthentication/v16/Server/sqlite3/storage.ide-wal
+/.vs/TokenbasedAuthentication/v16/Server/sqlite3/storage.ide-shm
+/.vs/TokenbasedAuthentication/v16/Server/sqlite3/storage.ide
+/.vs/TokenbasedAuthentication/v16/Server/sqlite3/db.lock
+/.vs/TokenbasedAuthentication/v16/.suo
+/.vs/TokenbasedAuthentication/config/applicationhost.config
