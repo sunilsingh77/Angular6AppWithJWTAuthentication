@@ -25,16 +25,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="ClientApp\src\app\Interceptor\errorInterceptor.ts" />
-    <None Remove="ClientApp\src\app\Interceptor\httpInterceptor.ts" />
     <None Remove="ClientApp\src\app\Services\authentication.service.ts" />
     <None Remove="ClientApp\src\app\Login\login.component.ts" />
     <None Remove="ClientApp\src\app\Services\authorizationCheck.ts" />
   </ItemGroup>
 
   <ItemGroup>
-    <TypeScriptCompile Include="ClientApp\src\app\Interceptor\errorInterceptor.ts" />
-    <TypeScriptCompile Include="ClientApp\src\app\Interceptor\httpInterceptor.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Services\authentication.service.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Login\login.component.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\Services\authorizationCheck.ts" />

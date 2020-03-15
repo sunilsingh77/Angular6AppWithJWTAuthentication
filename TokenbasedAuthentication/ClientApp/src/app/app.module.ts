@@ -12,7 +12,7 @@ import { FetchDataComponent } from './fetch-data/fetch-data.component';
 
 import { LoginComponent } from './Login/login.component'
 
-import { httpInterceptor } from './Interceptor/httpInterceptor';
+import { httpInterceptor } from "./Interceptor/httpInterceptor";
 import { ErrorInterceptor } from './Interceptor/errorInterceptor';
 
 import { AuthorizationCheck } from './Services/authorizationCheck'
